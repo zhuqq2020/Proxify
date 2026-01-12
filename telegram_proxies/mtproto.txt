@@ -741,7 +741,6 @@ https://t.me/proxy?server=216.9.225.97&port=443&secret=a4b93f8c7e5d21fa0c6e4b2d8
 https://t.me/proxy?server=217.142.227.120&port=12432&secret=ddebeb7f379c5cdb9aa4e6f75f02a403bf
 https://t.me/proxy?server=23.176.184.28&port=443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=23.236.186.146&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=23.27.134.251&port=443&secret=eeb047976aa58be5f1dc7d5488814d824a617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=23.88.32.231&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=23.88.46.216&port=443&secret=dd00000000000000000000000000000000
@@ -1157,7 +1156,6 @@ https://t.me/proxy?server=8.8.8.8.regiatmoon.ir&port=443&secret=eeNEgYdJvXrFGRMC
 https://t.me/proxy?server=8.nsdconect.ir&port=443&secret=eeDDNEgYdJvXrFGRMCIMJQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=80.85.247.9&port=165&secret=eeRigzNJvxrFGRMCIMJdEKuVuRueWVrdGFuZXQuY29tZmFyYXqhdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=80.89.224.120&port=443&secret=ee1f643e0ac5f27a2e9687f27fcb481dba7661727a657368332e636f6d
-https://t.me/proxy?server=80.89.224.37&port=443&secret=ee49134fc3a90db066f1cc4e7721f34d177661727a657368332e636f6d
 https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
 https://t.me/proxy?server=810.55.198-44.ir&port=443&secret=7td9tD7jch8Py0Ck_2O1zSdtZWRpYS5zdGVhbXBvd2VyZWQuY29t
 https://t.me/proxy?server=83.147.252.64&port=443&secret=ee0452c85fed7aba8a05802eb7b8104ca97777772e636c6f7564666c6172652e636f6d
@@ -1667,6 +1665,7 @@ https://t.me/proxy?server=callcenter.personal-explorer.co.uk&port=8443&secret=ee
 https://t.me/proxy?server=car-old.nissan-peageut-daewoo-renult-bmw.benz-fiat-mwm-jac.locano-j7-s5.nitrogen-diocsid.cloudflare-com.bmi-ir.deawoo-cilo-matiz.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=cat.snoopsag.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=cdn.saatchi.cloud&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=cdn.saatchi.space&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=chernobill.technote.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
 https://t.me/proxy?server=cloud-hosting.sibiu.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=cloud.engpoli.ir&port=443&secret=eeDDNEgYdJvXrFGRMCIMJQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
