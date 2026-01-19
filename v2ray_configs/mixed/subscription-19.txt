@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.144.133:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#🇳🇱 114 - NL - SS/AEAD - 8080
-ss://dd618f98-8af3-413b-b4d7-f77afa40365d@178.154.201.52:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=sun6-22.userapi.com&amp;fp=chrome&amp;security=reality&amp;pbk=n3D2iju9CkAzG7m88Kmg5nZZgAjBC9PCgpEpFeaxMmQ&amp;sid=a20d3ed244c76426#%E2%99%BE%EF%B8%8F71%40oneclickvpnkeys
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=ws&amp%3Bsni=azizoarjmand.info#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40free4allvpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&amp;type=grpc&amp;encryption=none#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.141-0276
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@190.93.247.168:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.v6.army&type=ws&sni=sni.111000.v6.army#🇨🇷 308 - CR - VLESS/WS/TLS - 2096
