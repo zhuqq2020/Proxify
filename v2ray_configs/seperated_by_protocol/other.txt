@@ -4,75 +4,75 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21494?mport=21001-21999&insecure=0#🏳️ 26 - XX - Hysteria2/QUIC - 21494
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21112?mport=21001-21999&insecure=0#🏳️ 18 - XX - Hysteria2/QUIC - 21112
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?mport=21001-21999&insecure=0#🏳️ 14 - XX - Hysteria2/QUIC - 21349
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#🇺🇸 65 - US - Hysteria2/QUIC - 22222
-hysteria2://bab1c3e1-8e02-47ed-8183-80962171226a@us2.anliangjifei.top:54500?insecure=1&sni=apps.apple.com#🇺🇸 61 - US - Hysteria2/QUIC - 54500
-hysteria2://ceca49c2-93b8-4753-b1c8-e7c0503d5563@us2.anliangjifei.top:51375,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-15
-hysteria2://c0630c24-56a8-46ac-a5bc-dc3d931c73e1@us2.anliangjifei.top:53073,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-06
-hysteria2://68c238d0-4159-4f0d-a38a-9dfc7b3eef24@us2.anliangjifei.top:53895?insecure=1&sni=apps.apple.com#🇺🇸 29 - US - Hysteria2/QUIC - 53895
-hysteria2://549643c6-038f-47df-af65-b6191bc5e969@us2.anliangjifei.top:50642/?insecure=1&sni=apps.apple.com#@APPXA-04
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 38 - NL - Hysteria2/QUIC/OBFS - 36300
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🏳️ 45 - XX - Hysteria2/QUIC/OBFS - 36400
-hysteria2://bab1c3e1-8e02-47ed-8183-80962171226a@us2.anliangjifei.top:54500/?insecure=1&sni=apps.apple.com#@APPXA-10
-hysteria2://a10d5d6c-7e9b-4735-9242-658928bf132a@us2.anliangjifei.top:54427,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-17
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 43 - NL - Hysteria2/QUIC/OBFS - 36600
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 37 - NL - Hysteria2/QUIC/OBFS - 36300
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🏳️ 58 - XX - Hysteria2/QUIC/OBFS - 35000
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21828?mport=21001-21999&insecure=0#🏳️ 20 - XX - Hysteria2/QUIC - 21828
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 34 - NL - Hysteria2/QUIC/OBFS - 35200
-hysteria2://ceca49c2-93b8-4753-b1c8-e7c0503d5563@us2.anliangjifei.top:51151,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-07
-hysteria2://a0e57144-5343-489f-be1b-22b67a1df9a1@us2.anliangjifei.top:51145,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-21
-hysteria2://652f234a-71d3-45d1-888f-682c048ef7df@us2.anliangjifei.top:50423,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-12
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21440?mport=21001-21999&insecure=0#🏳️ 12 - XX - Hysteria2/QUIC - 21440
-hysteria2://7cd68008-f7f1-485f-b97f-2a9c384ba457@us2.anliangjifei.top:50644,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-19
-hysteria2://64d95ad1-76e3-43d1-99a7-f401b1289b50@us2.anliangjifei.top:51876,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-08
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇳🇱 55 - NL - Hysteria2/QUIC/OBFS - 35000
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 41 - NL - Hysteria2/QUIC/OBFS - 36400
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21639?mport=21001-21999&insecure=0#🏳️ 15 - XX - Hysteria2/QUIC - 21639
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 25 - XX - Hysteria2/QUIC - 21072
-hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@los.zuomomo.top:16667?sni=los.zuomomo.top#🇺🇸 8 - US - Hysteria2/QUIC - 16667
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21545?mport=21001-21999&insecure=0#🏳️ 16 - XX - Hysteria2/QUIC - 21545
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 42 - NL - Hysteria2/QUIC/OBFS - 36400
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#🇺🇸 4 - US - Hysteria2/QUIC - 25000
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 48 - NL - Hysteria2/QUIC/OBFS - 36400
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 40 - NL - Hysteria2/QUIC/OBFS - 36400
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 24 - XX - Hysteria2/QUIC - 21072
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#🇺🇸 5 - US - Hysteria2/QUIC - 25000
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 39 - NL - Hysteria2/QUIC/OBFS - 36400
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 35 - NL - Hysteria2/QUIC/OBFS - 35200
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?security=tls&insecure=1&sni=apple.com#🏳️ 66 - XX - Hysteria2/QUIC - 20088
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 36 - NL - Hysteria2/QUIC/OBFS - 36300
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 44 - NL - Hysteria2/QUIC/OBFS - 36600
-hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@172.233.97.125:8443?insecure=1&sni=hy8.hy2yydsapi.top#🇪🇸 32 - ES - Hysteria2/QUIC - 8443
-hysteria2://45358ab5-7a97-4b01-ad10-a4c2e29b4a8a@us2.anliangjifei.top:54749?insecure=1&sni=apps.apple.com#🇺🇸 7 - US - Hysteria2/QUIC - 54749
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 54 - DE - Hysteria2/QUIC/OBFS - 35000
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a14:3f87:f001:1a::a:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🏳️ 59 - XX - Hysteria2/QUIC/OBFS - 35000
-hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&sni=www.bing.com#🇺🇸 2 - US - Hysteria2/QUIC - 47974
-hysteria2://549643c6-038f-47df-af65-b6191bc5e969@us2.anliangjifei.top:50642?insecure=1&sni=apps.apple.com#🇺🇸 9 - US - Hysteria2/QUIC - 50642
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#🇺🇸 1 - US - Hysteria2/QUIC - 1743
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 47 - NL - Hysteria2/QUIC/OBFS - 36300
-hysteria2://5aaae3d9-e416-44d9-b1f5-bad16467928e@us2.anliangjifei.top:51468,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-11
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 23 - XX - Hysteria2/QUIC - 21072
-hysteria2://5ba6fc5c-0afe-4bc1-af21-25b11b3c53ad@us2.anliangjifei.top:53727,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-16
-hysteria2://68c238d0-4159-4f0d-a38a-9dfc7b3eef24@us2.anliangjifei.top:53895/?insecure=1&sni=apps.apple.com#@APPXA-18
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#🇸🇪 31 - SE - Hysteria2/QUIC/OBFS - 20335
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 57 - DE - Hysteria2/QUIC/OBFS - 35000
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21910?mport=21001-21999&insecure=0#🏳️ 19 - XX - Hysteria2/QUIC - 21910
-hysteria2://45358ab5-7a97-4b01-ad10-a4c2e29b4a8a@us2.anliangjifei.top:54749/?insecure=1&sni=apps.apple.com#@APPXA-14
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 22 - XX - Hysteria2/QUIC - 21072
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21842?mport=21001-21999&insecure=0#🏳️ 17 - XX - Hysteria2/QUIC - 21842
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21860?mport=21001-21999&insecure=0#🏳️ 21 - XX - Hysteria2/QUIC - 21860
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 46 - NL - Hysteria2/QUIC/OBFS - 35200
-hysteria2://3680d93f-683f-4f41-b3f5-2361df917ae6@us2.anliangjifei.top:50793,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-02
-hysteria2://428555fa-afbb-48b6-b950-9ecbfb63d928@us2.anliangjifei.top:52660,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-3
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?mport=21001-21999&insecure=0#🏳️ 13 - XX - Hysteria2/QUIC - 21654
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@updates.kermanshahi.org:33500?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=updates.kermanshahi.org#🏳️ 60 - XX - Hysteria2/QUIC/OBFS - 33500
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 33 - NL - Hysteria2/QUIC/OBFS - 35000
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#🇩🇪All³ | @AZARBAYJAB1
-hysteria2://ad4ca505-a514-4c5c-b0d0-3eafd073b42e@us2.anliangjifei.top:51177,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-09
-hysteria2://a0e57144-5343-489f-be1b-22b67a1df9a1@us2.anliangjifei.top:52019,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-22
+hysteria2://64d95ad1-76e3-43d1-99a7-f401b1289b50@us2.anliangjifei.top:51876,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-08
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 34 - NL - Hysteria2/QUIC/OBFS - 35200
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇳🇱 56 - NL - Hysteria2/QUIC/OBFS - 35000
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 33 - NL - Hysteria2/QUIC/OBFS - 35000
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 42 - NL - Hysteria2/QUIC/OBFS - 36400
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#🇸🇪 31 - SE - Hysteria2/QUIC/OBFS - 20335
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21860?mport=21001-21999&insecure=0#🏳️ 21 - XX - Hysteria2/QUIC - 21860
+hysteria2://428555fa-afbb-48b6-b950-9ecbfb63d928@us2.anliangjifei.top:52660,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-3
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 37 - NL - Hysteria2/QUIC/OBFS - 36300
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a14:3f87:f001:1a::a:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🏳️ 59 - XX - Hysteria2/QUIC/OBFS - 35000
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 41 - NL - Hysteria2/QUIC/OBFS - 36400
+hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#🇺🇸 65 - US - Hysteria2/QUIC - 22222
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 48 - NL - Hysteria2/QUIC/OBFS - 36400
+hysteria2://ad4ca505-a514-4c5c-b0d0-3eafd073b42e@us2.anliangjifei.top:51177,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-09
+hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@172.233.97.125:8443?insecure=1&sni=hy8.hy2yydsapi.top#🇪🇸 32 - ES - Hysteria2/QUIC - 8443
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 40 - NL - Hysteria2/QUIC/OBFS - 36400
+hysteria2://68c238d0-4159-4f0d-a38a-9dfc7b3eef24@us2.anliangjifei.top:53895/?insecure=1&sni=apps.apple.com#@APPXA-18
+hysteria2://5aaae3d9-e416-44d9-b1f5-bad16467928e@us2.anliangjifei.top:51468,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-11
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#🇯🇵 53 - JP - Hysteria2/QUIC - 24591
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 43 - NL - Hysteria2/QUIC/OBFS - 36600
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#🇺🇸 5 - US - Hysteria2/QUIC - 25000
+hysteria2://bab1c3e1-8e02-47ed-8183-80962171226a@us2.anliangjifei.top:54500/?insecure=1&sni=apps.apple.com#@APPXA-10
+hysteria2://45358ab5-7a97-4b01-ad10-a4c2e29b4a8a@us2.anliangjifei.top:54749/?insecure=1&sni=apps.apple.com#@APPXA-14
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 57 - DE - Hysteria2/QUIC/OBFS - 35000
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 38 - NL - Hysteria2/QUIC/OBFS - 36300
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 23 - XX - Hysteria2/QUIC - 21072
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🏳️ 45 - XX - Hysteria2/QUIC/OBFS - 36400
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🏳️ 58 - XX - Hysteria2/QUIC/OBFS - 35000
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 35 - NL - Hysteria2/QUIC/OBFS - 35200
+hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@los.zuomomo.top:16667?sni=los.zuomomo.top#🇺🇸 8 - US - Hysteria2/QUIC - 16667
+hysteria2://c0630c24-56a8-46ac-a5bc-dc3d931c73e1@us2.anliangjifei.top:53073,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-06
+hysteria2://652f234a-71d3-45d1-888f-682c048ef7df@us2.anliangjifei.top:50423,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-12
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21112?mport=21001-21999&insecure=0#🏳️ 18 - XX - Hysteria2/QUIC - 21112
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@updates.kermanshahi.org:33500?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=updates.kermanshahi.org#🏳️ 60 - XX - Hysteria2/QUIC/OBFS - 33500
+hysteria2://a0e57144-5343-489f-be1b-22b67a1df9a1@us2.anliangjifei.top:51145,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-21
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 44 - NL - Hysteria2/QUIC/OBFS - 36600
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21842?mport=21001-21999&insecure=0#🏳️ 17 - XX - Hysteria2/QUIC - 21842
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 47 - NL - Hysteria2/QUIC/OBFS - 36300
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 24 - XX - Hysteria2/QUIC - 21072
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?mport=21001-21999&insecure=0#🏳️ 13 - XX - Hysteria2/QUIC - 21654
+hysteria2://7cd68008-f7f1-485f-b97f-2a9c384ba457@us2.anliangjifei.top:50644,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-19
+hysteria2://5ba6fc5c-0afe-4bc1-af21-25b11b3c53ad@us2.anliangjifei.top:53727,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-16
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#🇺🇸 4 - US - Hysteria2/QUIC - 25000
+hysteria2://549643c6-038f-47df-af65-b6191bc5e969@us2.anliangjifei.top:50642?insecure=1&sni=apps.apple.com#🇺🇸 9 - US - Hysteria2/QUIC - 50642
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 22 - XX - Hysteria2/QUIC - 21072
+hysteria2://bab1c3e1-8e02-47ed-8183-80962171226a@us2.anliangjifei.top:54500?insecure=1&sni=apps.apple.com#🇺🇸 61 - US - Hysteria2/QUIC - 54500
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21828?mport=21001-21999&insecure=0#🏳️ 20 - XX - Hysteria2/QUIC - 21828
+hysteria2://ceca49c2-93b8-4753-b1c8-e7c0503d5563@us2.anliangjifei.top:51375,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-15
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21910?mport=21001-21999&insecure=0#🏳️ 19 - XX - Hysteria2/QUIC - 21910
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21545?mport=21001-21999&insecure=0#🏳️ 16 - XX - Hysteria2/QUIC - 21545
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?security=tls&insecure=1&sni=apple.com#🏳️ 66 - XX - Hysteria2/QUIC - 20088
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#🇩🇪All³ | @AZARBAYJAB1
+hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&sni=www.bing.com#🇺🇸 2 - US - Hysteria2/QUIC - 47974
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#🏳️ 25 - XX - Hysteria2/QUIC - 21072
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 39 - NL - Hysteria2/QUIC/OBFS - 36400
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇳🇱 55 - NL - Hysteria2/QUIC/OBFS - 35000
+hysteria2://3680d93f-683f-4f41-b3f5-2361df917ae6@us2.anliangjifei.top:50793,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-02
+hysteria2://549643c6-038f-47df-af65-b6191bc5e969@us2.anliangjifei.top:50642/?insecure=1&sni=apps.apple.com#@APPXA-04
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#🇺🇸 1 - US - Hysteria2/QUIC - 1743
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 46 - NL - Hysteria2/QUIC/OBFS - 35200
+hysteria2://45358ab5-7a97-4b01-ad10-a4c2e29b4a8a@us2.anliangjifei.top:54749?insecure=1&sni=apps.apple.com#🇺🇸 7 - US - Hysteria2/QUIC - 54749
+hysteria2://a0e57144-5343-489f-be1b-22b67a1df9a1@us2.anliangjifei.top:52019,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-22
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21440?mport=21001-21999&insecure=0#🏳️ 12 - XX - Hysteria2/QUIC - 21440
+hysteria2://ceca49c2-93b8-4753-b1c8-e7c0503d5563@us2.anliangjifei.top:51151,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-07
+hysteria2://68c238d0-4159-4f0d-a38a-9dfc7b3eef24@us2.anliangjifei.top:53895?insecure=1&sni=apps.apple.com#🇺🇸 29 - US - Hysteria2/QUIC - 53895
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21639?mport=21001-21999&insecure=0#🏳️ 15 - XX - Hysteria2/QUIC - 21639
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?mport=21001-21999&insecure=0#🏳️ 14 - XX - Hysteria2/QUIC - 21349
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 54 - DE - Hysteria2/QUIC/OBFS - 35000
+hysteria2://a10d5d6c-7e9b-4735-9242-658928bf132a@us2.anliangjifei.top:54427,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-17
