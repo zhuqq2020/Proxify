@@ -3,7 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://1467dff0-8dc8-47c4-b610-a3f4d3c957fa@vip4.aminvip.online:5361?security=reality&amp;encryption=none&amp;pbk=NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-trojan://T9BpZIVMNv@vip1.kaixincloud.top:8443/?type=ws&amp;host=sweden.vmaxpanel.com&amp;path=%2Famd&amp;security=tls&amp;sni=sweden.vmaxpanel.com&amp;allowInsecure=1#%E2%98%A2%EF%B8%8F65%40proxy_kafee
-vless://6b719fca-fc63-477b-8b4d-eab4d1dce549@ir.rightpol3.ir:11565?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@flyv2ray
-vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&type=grpc&serviceName=Love&sni=austrish.digishopcenter.ir#⚡Telegram = @canfingV2rayNG
+trojan://ttfang@172.64.156.11:443?type=tcp&security=tls&sni=ttfang.fange.me&allowInsecure=1#037-%40GheychiAmoozesh
