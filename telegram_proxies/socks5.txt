@@ -1,3 +1,6 @@
+https://t.me/proxy?server=110.235.248.142&port=1080
+https://t.me/proxy?server=203.189.154.20&port=1080
+https://t.me/proxy?server=110.235.247.105&port=1080
 https://t.me/proxy?server=203.189.152.142&port=1080
 https://t.me/proxy?server=203.189.154.80&port=1080
 https://t.me/proxy?server=110.235.246.62&port=1080
